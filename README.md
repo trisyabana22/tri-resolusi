@@ -1,2 +1,2 @@
 # tri-resolusi
-menjadi fullstack programmer
+Repository Untuk Menyimpan rencana kedepan
